@@ -1,6 +1,6 @@
 import socket
 
-target = "192.168.0.1"  # Skan etmək istədiyiniz hədəf IP ünvanını buraya yazın
+target = "Target ip"  # Skan etmək istədiyiniz hədəf IP ünvanını buraya yazın
 min_port = 1  # Skanın başlayacağı minimum port nömrəsi
 max_port = 65535  # Skanın bitəcəyi maksimum port nömrəsi
 
